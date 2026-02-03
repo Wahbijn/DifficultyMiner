@@ -1,7 +1,7 @@
 # 🎮 Game Difficulty Predictor from Reviews
 
 ## 📌 Project Title
-Game Difficulty Predictor from Player Reviews using NLP and Machine Learning
+DifficultyMiner : Game Difficulty Predictor from Player Reviews 
 
 ---
 
@@ -38,7 +38,7 @@ Scraping is performed for **educational purposes only** with rate limiting and s
 ---
 
 ## 🧠 Methods & Technologies
-- FaastAPI
+- FastAPI
 - Web Scraping (Requests / BeautifulSoup / Selenium)
 - NLP preprocessing
 - Feature Engineering
